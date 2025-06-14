@@ -1,6 +1,4 @@
-function scrollToTop() {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
+
   
   function handleSubmit(event) {
     event.preventDefault();
